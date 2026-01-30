@@ -11,10 +11,11 @@ site:
   title: "Spatial Data Science Summit 2026"
   url: "https://USERNAME.github.io"
   baseurl: "/REPO"
-
   nav:
     - title: "Home"
       url: "/"
+    - title: "Sponsors"
+      url: "sponsors.md"
     - title: "About"
       url: "/about"
     - title: "Program"
